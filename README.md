@@ -1,2 +1,2 @@
-# design-patten-for-java
+# java-design-patten
 1. 单例模式
